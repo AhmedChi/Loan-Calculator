@@ -1,2 +1,2 @@
 # Loan-Calculator
-Loan Calculator Using pure JS
+Loan Calculator using pure JavaScript
